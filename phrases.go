@@ -49,4 +49,11 @@ var phrases = [...]string{
 	"Utilise VI pas nano...",
 	"pas de sucre en plus de ceux qui sont dans le fruit.",
 	"Maseltov, comme ils disent...",
+	"Rend ça Open-source",
+	"Mes clés RSA sont en 4096",
+	"Terraform !",
+	"KVM",
+	"Tu veux mon Vagrant?",
+	"KVM c'est mieux que VirtualBOX",
+	"Il faut soutiré les infos"
 }
