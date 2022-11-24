@@ -55,5 +55,6 @@ var phrases = [...]string{
 	"KVM",
 	"Tu veux mon Vagrant?",
 	"KVM c'est mieux que VirtualBOX",
-	"Il faut soutiré les infos"
+	"Il faut soutiré les infos",
+	"je sais pas mais avec VIM",
 }
