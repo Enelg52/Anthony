@@ -8,7 +8,7 @@ import (
 	"time"
 )
 
-func tony() {
+func speak() {
 	for {
 		rand.Seed(time.Now().Unix())
 		msg := phrases[rand.Intn(len(phrases))]
@@ -30,9 +30,11 @@ func msgBox(msg string) {
 		zenity.Width(1000),
 		zenity.Height(1000),
 		zenity.Title("Salut c'est Anthony !"),
+		// path of the icon
 		zenity.Icon("N:\\COMMUN\\ELEVE\\INFO\\SI-T1b\\GRP1\\Jan - Luca\\Antony\\test.ico"))
+	//zenity.Icon("test.ico"))
 }
 
 func main() {
-	tony()
+	speak()
 }
