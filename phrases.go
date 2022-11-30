@@ -33,7 +33,7 @@ var phrases = [...]string{
 	"Je signe tout mes commit !",
 	"Tu as une clé GPG ?",
 	"Notion c'est pas du Markdown",
-	"Rien de mieux qu'un Kangoo diesel manuel",
+	"Rien de mieux qu'un Kangoo diesel",
 	"Dnsmaq c'est pour la maison pas les entreprises",
 	"VMware c'est de la merde",
 	"Regarde mon gestionnaire de mot de passe es tout en ligne de commande !",
@@ -56,4 +56,7 @@ var phrases = [...]string{
 	"KVM c'est mieux que VirtualBOX",
 	"Il faut soutiré les infos",
 	"je sais pas mais avec VIM",
+	"Les workaround c'est ma vie",
+	"ça fait plusieur année que j'ai pas eu d'interation avec une fille",
+	"il faut touiller la config"
 }
