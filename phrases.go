@@ -32,7 +32,6 @@ var phrases = [...]string{
 	"J'ai démonter tout mon vélo pour le nettoyer tip top  hier !",
 	"Je signe tout mes commit !",
 	"Tu as une clé GPG ?",
-	"Avec Biscaro on chiffre tout nos emails",
 	"Notion c'est pas du Markdown",
 	"Rien de mieux qu'un Kangoo diesel manuel",
 	"Dnsmaq c'est pour la maison pas les entreprises",
