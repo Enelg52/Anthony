@@ -55,7 +55,7 @@ var phrases = [...]string{
 	"Tu veux mon Vagrant?",
 	"KVM c'est mieux que VirtualBOX",
 	"Il faut soutiré les infos",
-	"je sais pas mais avec VIM",
+	"je sais pas mais avec VIM...",
 	"En vrai, désactivé le ping dans le noyau, c'est plus simple",
 	"Le meilleur moyen de se defendre contre un terroriste, c'est de faire attention,",
 }
